@@ -1,0 +1,13 @@
+
+.slick-header-column{
+    font-size: 0.8em;
+}
+
+.slick-row{
+    font-size: 0.8em;
+}
+
+.slick-row .slick-cell .m-badge{
+    padding-top: 0px;
+    margin-top: -4px;
+}
